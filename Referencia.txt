@@ -1,0 +1,6 @@
+Github - https://pt.wikipedia.org/wiki/GitHub
+Python - https://pt.wikipedia.org/wiki/Python
+Vscode - https://en.wikipedia.org/wiki/Visual_Studio_Code
+Chrome - https://pt.wikipedia.org/wiki/Google_Chrome
+Firefox - https://pt.wikipedia.org/wiki/Mozilla_Firefox
+Edge - https://pt.wikipedia.org/wiki/Microsoft_Edge
